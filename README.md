@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nemanjav11
 - 👀 I’m interested in python programming 
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning flask fullstack development
 - 💞️ I’m looking to collaborate on simple programming tasks for project needs 
 - 📫 You can reach me on mail velickovic.nemanja11@gmail.com or by  [@velickovic.nemanja169](https://instagram.com/velickovic.nemanja169) ☎ Instagram ☎
 <!---
